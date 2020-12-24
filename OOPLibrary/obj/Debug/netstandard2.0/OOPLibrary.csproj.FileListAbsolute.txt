@@ -1,0 +1,8 @@
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\ATM\OOPLibrary\obj\Debug\netstandard2.0\OOPLibrary.csprojAssemblyReference.cache
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\ATM\OOPLibrary\obj\Debug\netstandard2.0\OOPLibrary.AssemblyInfoInputs.cache
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\ATM\OOPLibrary\obj\Debug\netstandard2.0\OOPLibrary.AssemblyInfo.cs
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\ATM\OOPLibrary\bin\Debug\netstandard2.0\OOPLibrary.deps.json
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\ATM\OOPLibrary\bin\Debug\netstandard2.0\OOPLibrary.dll
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\ATM\OOPLibrary\bin\Debug\netstandard2.0\OOPLibrary.pdb
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\ATM\OOPLibrary\obj\Debug\netstandard2.0\OOPLibrary.dll
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\ATM\OOPLibrary\obj\Debug\netstandard2.0\OOPLibrary.pdb
